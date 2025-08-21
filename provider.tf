@@ -5,7 +5,7 @@
       version = "6.0"
     }
   }
-} 8/
+} */
 
 # Configure the AWS Provider
 provider "aws" {
