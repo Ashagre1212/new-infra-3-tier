@@ -2,6 +2,7 @@
 provider "aws" {
   region = "ap-south-1"
 }
+/*
 terraform {
   required_providers {
     aws = {
@@ -9,9 +10,7 @@ terraform {
       version = "5.84.0"
     }
   }
-}
-
-/*
+} */
 
 terraform {
   required_providers {
@@ -20,6 +19,6 @@ terraform {
       version = "~> 6.0"
     }
   }
-}  */
+}  
 
 
