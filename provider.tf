@@ -2,16 +2,16 @@
 provider "aws" {
   region = "ap-south-1"
 }
-/*
 terraform {
   required_providers {
     aws = {
       source  = "hashicorp/aws"
-      version = "6.8.0"
+      version = "5.84.0"
     }
   }
 }
-*/
+
+/*
 
 terraform {
   required_providers {
@@ -20,6 +20,6 @@ terraform {
       version = "~> 6.0"
     }
   }
-}
+}  */
 
 
