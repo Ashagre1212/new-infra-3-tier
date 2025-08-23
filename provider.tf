@@ -8,7 +8,7 @@ terraform {
 } 
 
 provider "aws" {
-  region  = "ep-south-1"
+  region  = "us-east-1"
   profile = "myprofile"
 }
 
